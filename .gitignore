@@ -1,0 +1,14 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# VS Code settings
+.vscode/
+
+
+# Data files (Optional: Keep raw/processed CSVs local)
+data/raw/
+data/processed/
+
+# reference files
+docs/references/DA C8 Case Study.pdf
